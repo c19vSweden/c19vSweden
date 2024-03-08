@@ -1,0 +1,7 @@
+- 👋 Detta är det officiella kontot för covid19vaccinen.se
+- 👀 Sysslar med PHP, CSS, JavaScript, och HTML.
+- 🌱 Hatar WordPress och övrig "bloat".
+- 💞️ Håller på att skapa en hosting plattform där alla sajter laddar på max 300-500ms.
+- 📫 Finns på c19vaccinen.se@proton.me eller på covid19vaccinen.se@icloud.com
+- 😄 Ingen aning. En person?
+- ⚡ Man kan skapa en komplett blogg med backend vars totala filstorlek är under 100kb.
